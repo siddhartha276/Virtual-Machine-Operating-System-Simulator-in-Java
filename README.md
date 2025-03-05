@@ -4,8 +4,8 @@ This project is a Java-based simulator designed to emulate the functionalities o
 
 ## Features
 
-- **Phase1.java**: Responsible for loading and parsing input commands.
-- **Phase2.java**: Handles the execution of parsed commands and manages system resources.
+- **Phase1**: Responsible for loading and parsing input commands.
+- **Phase2**: Handles the execution of parsed commands and manages system resources.
 - **File Handling**: Reads input commands from a file and writes the output results.
 - **Process Management**: Simulates scheduling and execution of instructions.
 - **Memory Management**: Simulates memory allocation and deallocation.
@@ -52,7 +52,22 @@ This project is a Java-based simulator designed to emulate the functionalities o
 ## Directory Structure
 
 ```
-Virtual-Machine-Operating-System-Simulator-in-Java/
+Virtual-Machine-Operating-System-Simulator-in-Java&CPP/
+│── Phase1
+   │── Phase1.cpp
+   │── input.txt
+   │── output.txt
+```
+```
+Virtual-Machine-Operating-System-Simulator-in-Java&CPP/
+│── Phase2
+   │── Phase2.cpp
+   │── input.txt
+   │── output.txt
+```
+
+```
+Virtual-Machine-Operating-System-Simulator-in-Java&CPP/
 │── Phase1.java
 │── Phase2.java
 │── input.txt

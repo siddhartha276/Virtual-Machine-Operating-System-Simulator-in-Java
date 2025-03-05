@@ -1,0 +1,67 @@
+*
+**
+***
+**
+
+
+Job ID : 202, IC = 14, LLC = 5, TLL = 4, TTC = 20, TTL = 25
+Error : Line Limit Exceeded 
+
+
+CAT CAN EAT RAT
+RAT
+
+
+Job ID : 302, IC = 9, LLC = 2, TLL = 2, TTC = 13, TTL = 13
+No Error
+
+
+
+
+Job ID : 102, IC = 0, LLC = 0, TLL = 2, TTC = 1, TTL = 7
+Error : Invalid Page Fault
+
+
+
+
+ABCD
+ABCD
+
+
+Job ID : 401, IC = 5, LLC = 2, TLL = 4, TTC = 10, TTL = 9
+Error : Time Limit Exceeded
+
+
+
+
+Job ID : 1403, IC = 8, LLC = 0, TLL = 8, TTC = 11, TTL = 13
+Error :Operation Code Error
+
+
+
+
+Job ID : 1403, IC = 0, LLC = 0, TLL = 8, TTC = 2, TTL = 50
+Error : Out of Data
+
+
+SHE SELLS
+
+
+Job ID : 402, IC = 3, LLC = 1, TLL = 2, TTC = 5, TTL = 4
+Error : Time Limit Exceeded
+
+
+SHE SELLS
+
+
+Job ID : 403, IC = 3, LLC = 1, TLL = 2, TTC = 5, TTL = 4
+Error : Time Limit Exceeded
+
+
+SHE SELLS
+
+
+Job ID : 405, IC = 2, LLC = 1, TLL = 2, TTC = 4, TTL = 3
+Error : Time Limit Exceeded
+
+
